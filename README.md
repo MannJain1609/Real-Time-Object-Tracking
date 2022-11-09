@@ -14,7 +14,7 @@ The objective of this project is to implement the real-time object tracking algo
 and a Mixture of Gaussians. The implementation is done using the research paper based on "Adpative background mixture models for real time tracking".
 
 ## Dataset
-I created a video file for this project. It can be found in the repo. it is a 11.5 KB video in the `.mp4` format.
+I created a video file for this project. It can be found in the repo. It is a 11.5 KB video in the `.mp4` format.
 
 ## Technologies
 The project uses Python >= 3.5
